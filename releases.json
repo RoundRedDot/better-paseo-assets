@@ -1,0 +1,28 @@
+{
+  "releases": [
+    {
+      "version": "1.0.0",
+      "hash": "fb3062cb0347f2bcbf7b8b0a45b592661490737d",
+      "notes": {
+        "zh": "- 改进任务详情面板的滚动体验。\n- 修复平板上任务卡片菜单超出看板边界的问题。\n- 优化停止按钮的视觉反馈，并放大桌面端的操作文字和详情标签。\n- 调整 iPad 工具栏布局。",
+        "en": "- Improve scrolling in the task details panel.\n- Keep task card menus within the board on tablets.\n- Refine stop button feedback and enlarge desktop action and detail labels.\n- Adjust the iPad toolbar layout."
+      }
+    },
+    {
+      "version": "1.0.1",
+      "hash": "47802afdb390892091c1ed74ea0660f6ea1ae162",
+      "notes": {
+        "zh": "- 设置中新增版本检查入口，对照插件市场审核版本。\n- 支持显示对应市场版本的更新说明。",
+        "en": "- Add a settings entry to compare the installation with the reviewed plugin directory version.\n- Show release notes for the corresponding directory version."
+      }
+    },
+    {
+      "version": "1.0.1",
+      "hash": "1b9d5304a48279f80274231b2c0a7ff55b08d74e",
+      "notes": {
+        "zh": "- 检查插件版本时显示加载动画。\n- 在设置中显示版本号，并以 Markdown 展示市场版本的更新内容。",
+        "en": "- Show a loading indicator while checking the plugin version.\n- Display version numbers and render the marketplace release notes as Markdown in settings."
+      }
+    }
+  ]
+}
