@@ -6,7 +6,8 @@
       "notes": {
         "zh": "- 改进任务详情面板的滚动体验。\n- 修复平板上任务卡片菜单超出看板边界的问题。\n- 优化停止按钮的视觉反馈，并放大桌面端的操作文字和详情标签。\n- 调整 iPad 工具栏布局。",
         "en": "- Improve scrolling in the task details panel.\n- Keep task card menus within the board on tablets.\n- Refine stop button feedback and enlarge desktop action and detail labels.\n- Adjust the iPad toolbar layout."
-      }
+      },
+      "build": 202610311557
     },
     {
       "version": "1.0.1",
@@ -14,7 +15,8 @@
       "notes": {
         "zh": "- 设置中新增版本检查入口，对照插件市场审核版本。\n- 支持显示对应市场版本的更新说明。",
         "en": "- Add a settings entry to compare the installation with the reviewed plugin directory version.\n- Show release notes for the corresponding directory version."
-      }
+      },
+      "build": 202610311637
     },
     {
       "version": "1.0.1",
@@ -22,6 +24,16 @@
       "notes": {
         "zh": "- 检查插件版本时显示加载动画。\n- 在设置中显示版本号，并以 Markdown 展示市场版本的更新内容。",
         "en": "- Show a loading indicator while checking the plugin version.\n- Display version numbers and render the marketplace release notes as Markdown in settings."
+      },
+      "build": 202610311724
+    },
+    {
+      "version": "1.0.1",
+      "build": 202610311731,
+      "hash": "c11389f1a90496ed1b4a12665e55d65e1171934e",
+      "notes": {
+        "zh": "- 检查版本时显示加载动画，启动时自动检查并可在设置中关闭。\n- 显示版本号与 build，并以 Markdown 展示插件市场版本的更新内容。\n- 发现较新的市场版本时显示红点，并可复制更新命令。",
+        "en": "- Show a loading indicator and automatically check on startup, with an option to turn the check off.\n- Display version and build numbers and render the marketplace release notes as Markdown.\n- Show an update badge and offer a command to copy when a newer marketplace version is available."
       }
     }
   ]
