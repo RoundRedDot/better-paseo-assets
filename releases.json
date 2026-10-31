@@ -35,6 +35,15 @@
         "zh": "- 检查版本时显示加载动画，启动时自动检查并可在设置中关闭。\n- 显示版本号与 build，并以 Markdown 展示插件市场版本的更新内容。\n- 发现较新的市场版本时显示红点，并可复制更新命令。",
         "en": "- Show a loading indicator and automatically check on startup, with an option to turn the check off.\n- Display version and build numbers and render the marketplace release notes as Markdown.\n- Show an update badge and offer a command to copy when a newer marketplace version is available."
       }
+    },
+    {
+      "version": "1.0.1",
+      "build": 202610311839,
+      "hash": "f7dcdedd5ba53b1519e30bc15c1ce2fc120be539",
+      "notes": {
+        "zh": "- 在设置中检查插件市场版本，启动时自动检查并可关闭。\n- 显示版本号、提交号和 Markdown 更新说明；发现新版本时显示红点。\n- 展示并复制更新命令，macOS 主机可将命令填入终端，确认后再执行。",
+        "en": "- Check the plugin directory version in settings, with an optional automatic check at startup.\n- Display version numbers, revisions and Markdown release notes, with a badge for newer versions.\n- Show and copy the update command; macOS hosts can prepare it in Terminal for review before execution."
+      }
     }
   ]
 }
