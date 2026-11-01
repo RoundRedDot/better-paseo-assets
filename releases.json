@@ -44,6 +44,15 @@
         "zh": "- 在设置中检查插件市场版本，启动时自动检查并可关闭。\n- 显示版本号、提交号和 Markdown 更新说明；发现新版本时显示红点。\n- 展示并复制更新命令，macOS 主机可将命令填入终端，确认后再执行。",
         "en": "- Check the plugin directory version in settings, with an optional automatic check at startup.\n- Display version numbers, revisions and Markdown release notes, with a badge for newer versions.\n- Show and copy the update command; macOS hosts can prepare it in Terminal for review before execution."
       }
+    },
+    {
+      "version": "1.1.0",
+      "build": 202611011047,
+      "hash": "f747b6956861ab4e50e28d61b5dfdbc20cd1ba10",
+      "notes": {
+        "zh": "- iPad 侧边栏更好拖动，也能看清它是开着还是关着。\n- iPad 侧边活动栏滚动更顺：往下看时标签留在上面，切换页面会留在各自的位置；消息和用量也排得更紧凑。\n- 手机、iPad 和桌面的菜单栏按各自的屏幕做过调整。\n- 设置里可以查看新版本和更新说明，并复制更新命令。",
+        "en": "- The iPad sidebar is easier to resize, and shows whether it is open.\n- Scrolling the iPad activity sidebar keeps the tabs in place and remembers each page. Messages and usage sit in a tighter layout.\n- Phone, iPad, and desktop menus are adjusted for each screen.\n- Settings shows when a newer version is available, with its release notes and an update command."
+      }
     }
   ]
 }
