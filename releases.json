@@ -62,6 +62,15 @@
         "zh": "- iPad 侧边栏更好拖动，也能看清它是开着还是关着。\n- iPad 侧边活动栏滚动更顺：往下看时标签留在上面，切换页面会留在各自的位置；消息和用量也排得更紧凑。\n- 手机、iPad 和桌面的菜单栏按各自的屏幕做过调整。\n- 设置里可以查看新版本和更新说明，并复制更新命令。\n- 正在输出的思考停在出现时的位置，行距不再跟着时间跳动。\n- 手机上的任务卡片在按下和打开菜单时会留下按压的颜色。",
         "en": "- The iPad sidebar is easier to resize, and shows whether it is open.\n- Scrolling the iPad activity sidebar keeps the tabs in place and remembers each page. Messages and usage sit in a tighter layout.\n- Phone, iPad, and desktop menus are adjusted for each screen.\n- Settings shows when a newer version is available, with its release notes and an update command.\n- A thought that is still being written stays where it appeared, so its spacing no longer jumps.\n- On a phone, a task card keeps its pressed color while it is held and while its menu is open."
       }
+    },
+    {
+      "version": "1.1.2",
+      "build": 202611011436,
+      "hash": "32b82aec7b28024932951d9201c80a7b67ee2936",
+      "notes": {
+        "zh": "- iPad 侧边栏更好拖动，也能看清它是开着还是关着。\n- iPad 侧边活动栏滚动更顺：往下看时标签留在上面，切换页面会留在各自的位置；消息和用量也排得更紧凑。\n- 手机、iPad 和桌面的菜单栏按各自的屏幕做过调整。\n- 设置里可以查看新版本和更新说明，并复制更新命令。\n- 正在输出的思考停在出现时的位置，行距不再跟着时间跳动。\n- 手机上的任务卡片在按下和打开菜单时会留下按压的颜色。\n- 手机上滚到底的按钮按下时放得更大，阴影也更深。",
+        "en": "- The iPad sidebar is easier to resize, and shows whether it is open.\n- Scrolling the iPad activity sidebar keeps the tabs in place and remembers each page. Messages and usage sit in a tighter layout.\n- Phone, iPad, and desktop menus are adjusted for each screen.\n- Settings shows when a newer version is available, with its release notes and an update command.\n- A thought that is still being written stays where it appeared, so its spacing no longer jumps.\n- On a phone, a task card keeps its pressed color while it is held and while its menu is open.\n- On a phone, the scroll-to-bottom button grows more when pressed, and its shadow is deeper."
+      }
     }
   ]
 }
