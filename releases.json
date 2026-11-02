@@ -99,5 +99,105 @@
         "en": "- The iPad sidebar is easier to resize, and shows whether it is open.\n- Scrolling the iPad activity sidebar keeps the tabs in place and remembers each page. Messages and usage sit in a tighter layout.\n- Phone, iPad, and desktop menus are adjusted for each screen.\n- Settings shows when a newer version is available, with its release notes and an update command.\n- A thought that is still being written stays where it appeared, so its spacing no longer jumps.\n- On a phone, a task card keeps its pressed color while it is held and while its menu is open.\n- On a phone, the scroll-to-bottom button grows more when pressed, and its shadow is deeper.\n- Task cards show the error from a Claude turn.\n- When Claude reaches a usage limit, the card keeps the limit and reset time.\n- A recognized error adds a line on the card about what to do next.\n- Corner tips on a card use a warning background.\n- A failed card that is not selected draws a thinner line above the error.\n- Error text on a task card follows the current language.\n- Pressing a task card no longer grows it. The shadow still deepens.\n- Task details show the full error.\n- Opening a task reads the first prompt, the last sent message, and the last reply, including a closed task.\n- Switching tasks on a phone keeps the detail drawer height.\n- Swipe hints appear when another task is available, including on iPad, and follow the finger.\n- Detail chips use an opaque background.\n- The subtask marker stays above the card text.\n- Sidebar counts sit tighter and stay on one line.\n- The filter and more icons line up in the toolbar.\n- The empty-lane menu says collapse while those lanes are shown, and expand after they are collapsed.\n- The iPad sidebar no longer shrinks too far.\n- On iPad, the subtask and sidebar switches stay in the toolbar, and the done-time range moves into filters.\n- The iPad filter panel uses the available height.\n- On iPad, card actions open in a popover sized to its labels.\n- The plugin directory shows the Tasks board first; the chat timeline stays in the same description.\n- The new-task title switch is now called Optimize new task titles automatically, and says it refines the title from what you send. A title made when a task starts reads the first 1000 characters of the first message.\n- Where details open from the bottom, Open details in a row menu uses a bottom-sheet icon with a handle.\n- On a phone, tool calls that arrive after a reconnect no longer disappear between thoughts."
       }
     }
+  ],
+  "versionNotes": [
+    {
+      "version": "1.0.0",
+      "zh": [
+        "改进任务详情滚动、平板菜单与 iPad 工具栏。",
+        "优化停止按钮和桌面操作文字。"
+      ],
+      "en": [
+        "Improve task detail scrolling, tablet menus and the iPad toolbar.",
+        "Refine stop button feedback and desktop labels."
+      ],
+      "build": 202610311557
+    },
+    {
+      "version": "1.0.1",
+      "zh": [
+        "设置中可检查市场版本、查看更新说明并复制更新命令。",
+        "支持自动检查更新，并在发现新版本时显示提示。"
+      ],
+      "en": [
+        "Check the directory version, read release notes and copy the update command in settings.",
+        "Check automatically and show a badge when an update is available."
+      ],
+      "build": 202610311839
+    },
+    {
+      "version": "1.1.0",
+      "zh": [
+        "优化 iPad 侧边栏拖动、滚动和页面位置记忆。",
+        "调整手机、平板和桌面的菜单布局。"
+      ],
+      "en": [
+        "Improve iPad sidebar resizing, scrolling and page position memory.",
+        "Adjust menus for phone, tablet and desktop."
+      ],
+      "build": 202611011047
+    },
+    {
+      "version": "1.1.1",
+      "zh": [
+        "修复流式思考内容的间距跳动。",
+        "优化手机任务卡片的按压反馈。"
+      ],
+      "en": [
+        "Keep streaming thoughts from jumping as their spacing changes.",
+        "Improve pressed feedback on phone task cards."
+      ],
+      "build": 202611011134
+    },
+    {
+      "version": "1.1.2",
+      "zh": [
+        "优化手机滚到底部按钮的按压反馈。"
+      ],
+      "en": [
+        "Improve the pressed feedback of the phone scroll-to-bottom button."
+      ],
+      "build": 202611011436
+    },
+    {
+      "version": "1.1.3",
+      "zh": [
+        "任务卡片显示 Claude 错误、用量限制和对应处理提示。",
+        "优化卡片提示和警示颜色。"
+      ],
+      "en": [
+        "Show Claude errors, usage limits and suggested actions on task cards.",
+        "Refine card hints and warning colors."
+      ],
+      "build": 202611011659
+    },
+    {
+      "version": "1.1.4",
+      "zh": [
+        "任务详情显示完整错误，并读取首条消息和最近对话。",
+        "优化手机与 iPad 的任务切换、侧边栏、筛选及卡片菜单。",
+        "调整任务卡片、子任务标记和空泳道菜单的显示。"
+      ],
+      "en": [
+        "Show full errors and load the first prompt and recent messages in task details.",
+        "Improve task switching, sidebar, filters and card menus on phones and iPad.",
+        "Refine task cards, subtask markers and the empty-lane menu."
+      ],
+      "build": 202611020037
+    },
+    {
+      "version": "1.1.5",
+      "zh": [
+        "优化新任务标题设置，并根据首条消息生成标题。",
+        "修复手机重连后部分工具调用消失的问题。",
+        "调整插件目录介绍和详情面板图标。"
+      ],
+      "en": [
+        "Refine automatic new-task title settings and generate titles from the first message.",
+        "Fix tool calls disappearing after a phone reconnect.",
+        "Update the plugin directory description and detail panel icon."
+      ],
+      "build": 202611020746
+    }
   ]
 }
