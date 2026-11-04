@@ -1,0 +1,16 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.0.0",
+      "zh": [
+        "改进任务详情滚动、平板菜单与 iPad 工具栏。",
+        "优化停止按钮和桌面操作文字。"
+      ],
+      "en": [
+        "Improve task detail scrolling, tablet menus and the iPad toolbar.",
+        "Refine stop button feedback and desktop labels."
+      ],
+      "build": 202610311557
+    }
+  ]
+}

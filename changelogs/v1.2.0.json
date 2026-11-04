@@ -1,0 +1,76 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.2.0",
+      "build": 202611032055,
+      "zh": [
+        "Markdown 表格可以拖动调整列宽。",
+        "平板筛选改成下拉，工具栏更紧凑；手机上的停止按钮留在卡片里。",
+        "侧栏里的子任务可以打开菜单。生成的标题跟随界面语言，生成时会闪一下，也可以撤销。",
+        "同一次会话里的子任务会标出来。",
+        "停止任务始终需要确认。",
+        "打开任务时先画出看得到的时间线。任务详情里的 Markdown 不再提供在窗口中打开。",
+        "拖动桌面侧栏和详情面板更顺，按住收起的泳道时不再跟着晃。"
+      ],
+      "en": [
+        "Markdown table columns can be dragged to a new width.",
+        "Tablet filters open as a dropdown and the toolbar is tighter. On a phone, Stop stays inside the card.",
+        "A subtask in the sidebar has its own menu. A generated title follows the interface language, shimmers while it is written, and can be undone.",
+        "A subtask from the same session is marked.",
+        "Stopping a task always asks for confirmation.",
+        "Opening a task draws the timeline that is on screen first. Markdown in task details no longer offers opening in a window.",
+        "Dragging the desktop sidebar and detail panels is smoother, and a collapsed lane stays still while it is pressed."
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "build": 202611040115,
+      "zh": [
+        "Markdown 表格可以拖动调整列宽。",
+        "平板筛选改成下拉，工具栏更紧凑；手机上的停止按钮留在卡片里。",
+        "侧栏里的子任务可以打开菜单。生成的标题跟随界面语言，生成时会闪一下，也可以撤销。",
+        "同一次会话里的子任务会标出来。",
+        "停止任务始终需要确认。",
+        "打开任务时先画出看得到的时间线。任务详情里的 Markdown 不再提供在窗口中打开。",
+        "拖动桌面侧栏和详情面板更顺，按住收起的泳道时不再跟着晃。",
+        "手机和平板上的列表标记更小，圆点和文字之间也更开。"
+      ],
+      "en": [
+        "Markdown table columns can be dragged to a new width.",
+        "Tablet filters open as a dropdown and the toolbar is tighter. On a phone, Stop stays inside the card.",
+        "A subtask in the sidebar has its own menu. A generated title follows the interface language, shimmers while it is written, and can be undone.",
+        "A subtask from the same session is marked.",
+        "Stopping a task always asks for confirmation.",
+        "Opening a task draws the timeline that is on screen first. Markdown in task details no longer offers opening in a window.",
+        "Dragging the desktop sidebar and detail panels is smoother, and a collapsed lane stays still while it is pressed.",
+        "On a phone or tablet, list markers are smaller, and bullets sit farther from the text."
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "zh": [
+        "Markdown 表格可以拖动调整列宽。",
+        "平板筛选改成下拉，工具栏更紧凑；手机上的停止按钮留在卡片里。",
+        "侧栏里的子任务可以打开菜单。生成的标题跟随界面语言，生成时会闪一下，也可以撤销。",
+        "同一次会话里的子任务会标出来。",
+        "停止任务始终需要确认。",
+        "打开任务时先画出看得到的时间线。任务详情里的 Markdown 不再提供在窗口中打开。",
+        "拖动桌面侧栏和详情面板更顺，按住收起的泳道时不再跟着晃。",
+        "手机和平板上的列表标记更小，圆点和文字之间也更开。",
+        "通用设置新增「启用 Better Paseo 聊天」，默认开着。关掉后整段聊天交给 Paseo 和其他插件，任务看板照常使用，只和聊天有关的设置会藏起来。"
+      ],
+      "en": [
+        "Markdown table columns can be dragged to a new width.",
+        "Tablet filters open as a dropdown and the toolbar is tighter. On a phone, Stop stays inside the card.",
+        "A subtask in the sidebar has its own menu. A generated title follows the interface language, shimmers while it is written, and can be undone.",
+        "A subtask from the same session is marked.",
+        "Stopping a task always asks for confirmation.",
+        "Opening a task draws the timeline that is on screen first. Markdown in task details no longer offers opening in a window.",
+        "Dragging the desktop sidebar and detail panels is smoother, and a collapsed lane stays still while it is pressed.",
+        "On a phone or tablet, list markers are smaller, and bullets sit farther from the text.",
+        "General settings add Enable Better Paseo chat, on by default. Off leaves the whole chat to Paseo and other plugins. The Tasks board still works, and chat-only settings stay hidden while it is off."
+      ],
+      "build": 202611040155
+    }
+  ]
+}

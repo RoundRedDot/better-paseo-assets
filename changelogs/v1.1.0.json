@@ -1,0 +1,16 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.0",
+      "zh": [
+        "优化 iPad 侧边栏拖动、滚动和页面位置记忆。",
+        "调整手机、平板和桌面的菜单布局。"
+      ],
+      "en": [
+        "Improve iPad sidebar resizing, scrolling and page position memory.",
+        "Adjust menus for phone, tablet and desktop."
+      ],
+      "build": 202611011047
+    }
+  ]
+}

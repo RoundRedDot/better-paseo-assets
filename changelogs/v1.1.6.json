@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.6",
+      "zh": [
+        "清单项目编号，状态图标用细线连起来；消息标题更好点，正文行距跟随设置。",
+        "桌面搜索框更宽并与筛选对齐，工具栏按钮悬停出现圆角描边。",
+        "设置里的更新说明按版本分组，帮助文字和错误说明更清楚。"
+      ],
+      "en": [
+        "Checklist items are numbered and their status icons connected; message headings are easier to tap and prose spacing follows settings.",
+        "A wider desktop search field that lines up with the filters, and rounded hover outlines on toolbar buttons.",
+        "Release notes in settings are grouped by version, with clearer help text and error wording."
+      ],
+      "build": 202611021616
+    }
+  ]
+}
