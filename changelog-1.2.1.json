@@ -4,10 +4,14 @@
       "version": "1.2.1",
       "build": 202611041403,
       "zh": [
-        "修复版本信息和更新说明无法读取的问题。"
+        "修复版本信息和更新说明无法读取的问题。",
+        "定时任务卡片增加标识，并优化票券样式。",
+        "已完成任务的 API 错误更容易识别，任务看板加载更顺畅。"
       ],
       "en": [
-        "Fix version information and release notes failing to load."
+        "Fix version information and release notes failing to load.",
+        "Distinguish scheduled task cards and refine their ticket style.",
+        "Make API errors on completed tasks easier to spot and improve board loading."
       ]
     }
   ]
