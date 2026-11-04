@@ -6,12 +6,14 @@
       "zh": [
         "修复版本信息和更新说明无法读取的问题。",
         "定时任务卡片增加标识，并优化票券样式。",
-        "已完成任务的 API 错误更容易识别，任务看板加载更顺畅。"
+        "已完成任务的 API 错误更容易识别，任务看板加载更顺畅。",
+        "优化任务状态检查，减少工作区信息的重复读取，改善 Relay 连接下的请求开销。"
       ],
       "en": [
         "Fix version information and release notes failing to load.",
         "Distinguish scheduled task cards and refine their ticket style.",
-        "Make API errors on completed tasks easier to spot and improve board loading."
+        "Make API errors on completed tasks easier to spot and improve board loading.",
+        "Reduce repeated workspace reads during task status checks, lowering request overhead over Relay."
       ]
     },
     {
@@ -20,12 +22,14 @@
       "zh": [
         "修复版本信息和更新说明无法读取的问题。",
         "定时任务卡片增加标识，并优化票券样式。",
-        "已完成任务的 API 错误更容易识别，任务看板加载更顺畅。"
+        "已完成任务的 API 错误更容易识别，任务看板加载更顺畅。",
+        "优化任务状态检查，减少工作区信息的重复读取，改善 Relay 连接下的请求开销。"
       ],
       "en": [
         "Fix version information and release notes failing to load.",
         "Distinguish scheduled task cards and refine their ticket style.",
-        "Make API errors on completed tasks easier to spot and improve board loading."
+        "Make API errors on completed tasks easier to spot and improve board loading.",
+        "Reduce repeated workspace reads during task status checks, lowering request overhead over Relay."
       ]
     }
   ]
