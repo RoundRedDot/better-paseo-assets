@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.5",
+      "zh": [
+        "优化新任务标题设置，并根据首条消息生成标题。",
+        "修复手机重连后部分工具调用消失的问题。",
+        "调整插件目录介绍和详情面板图标。"
+      ],
+      "en": [
+        "Refine automatic new-task title settings and generate titles from the first message.",
+        "Fix tool calls disappearing after a phone reconnect.",
+        "Update the plugin directory description and detail panel icon."
+      ],
+      "build": 202611020746
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.2",
+      "zh": [
+        "优化手机滚到底部按钮的按压反馈。"
+      ],
+      "en": [
+        "Improve the pressed feedback of the phone scroll-to-bottom button."
+      ],
+      "build": 202611011436
+    }
+  ]
+}

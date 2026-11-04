@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.8",
+      "zh": [
+        "任务详情里的长消息默认多显示一些，用双箭头展开或收起，展开和收起更顺。",
+        "隐藏子任务后，筛选里的数量只计算看板上还显示的任务。",
+        "待回答的问题各自放在一块里，选项能看出是单选还是多选。"
+      ],
+      "en": [
+        "Long messages in task details show more before they fold, and open or close with a double chevron.",
+        "With subtasks hidden, filter counts include only the tasks still shown on the board.",
+        "Each question awaiting an answer sits on its own, and the options show whether the choice is single or multiple."
+      ],
+      "build": 202611022329
+    }
+  ]
+}

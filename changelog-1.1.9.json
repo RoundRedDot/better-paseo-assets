@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.9",
+      "zh": [
+        "生成标题的后台任务用完后会删掉，不再留在历史里。",
+        "手机看板顶栏更紧凑，搜索、数量和操作按钮排得更近。",
+        "待回答的问题从开头显示，卡片和详情里的字也更大。"
+      ],
+      "en": [
+        "The helper used to generate a title is removed after it finishes, instead of staying in history.",
+        "The phone board toolbar is tighter, with search, the count and the action buttons sitting closer together.",
+        "A question awaiting an answer shows from the start, and its text is larger on the card and in the details."
+      ],
+      "build": 202611031054
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.2.1",
+      "build": 202611041403,
+      "zh": [
+        "修复版本信息和更新说明无法读取的问题。"
+      ],
+      "en": [
+        "Fix version information and release notes failing to load."
+      ]
+    }
+  ]
+}

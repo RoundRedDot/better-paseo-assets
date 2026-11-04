@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.4",
+      "zh": [
+        "任务详情显示完整错误，并读取首条消息和最近对话。",
+        "优化手机与 iPad 的任务切换、侧边栏、筛选及卡片菜单。",
+        "调整任务卡片、子任务标记和空泳道菜单的显示。"
+      ],
+      "en": [
+        "Show full errors and load the first prompt and recent messages in task details.",
+        "Improve task switching, sidebar, filters and card menus on phones and iPad.",
+        "Refine task cards, subtask markers and the empty-lane menu."
+      ],
+      "build": 202611020037
+    }
+  ]
+}

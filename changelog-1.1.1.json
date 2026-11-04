@@ -1,0 +1,16 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.1",
+      "zh": [
+        "修复流式思考内容的间距跳动。",
+        "优化手机任务卡片的按压反馈。"
+      ],
+      "en": [
+        "Keep streaming thoughts from jumping as their spacing changes.",
+        "Improve pressed feedback on phone task cards."
+      ],
+      "build": 202611011134
+    }
+  ]
+}

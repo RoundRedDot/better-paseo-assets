@@ -1,0 +1,16 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.1.7",
+      "zh": [
+        "隐藏子任务时，正在运行的子任务收进父任务卡片。等待或失败的子任务仍单独显示。",
+        "任务需要回答时，详情里列出待回答的问题和选项。"
+      ],
+      "en": [
+        "With subtasks hidden, a running subtask folds into its parent card. Waiting or failed subtasks still have their own card.",
+        "When a task needs an answer, its details list the questions and options."
+      ],
+      "build": 202611021718
+    }
+  ]
+}
