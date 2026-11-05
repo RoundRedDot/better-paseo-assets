@@ -1,0 +1,22 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.3.0",
+      "build": 202611050859,
+      "zh": [
+        "新任务以更平滑的动画进入看板；不在视野内时，会显示提示，方便快速定位。",
+        "优化看板性能，减少不必要的刷新，改善 Android 上运行中任务和长列表的流畅度。",
+        "修复新任务启动时短暂跳入已完成泳道的问题。",
+        "修复隐藏子任务无法从列表行打开、工作区标题未同步及侧边栏悬停背景缺失的问题。",
+        "补全活动、上下文压缩和 agent 事件的本地化，并调整标题撤销按钮和桌面端列表间距。"
+      ],
+      "en": [
+        "New tasks enter the board smoothly, with a prompt to locate tasks outside the current view.",
+        "Improve board performance by reducing unnecessary updates, making running tasks and long lists smoother on Android.",
+        "Fix new tasks briefly appearing in the completed lane during startup.",
+        "Fix opening hidden subtasks from their rows, workspace title synchronization, and missing sidebar hover backgrounds.",
+        "Localize activity, compaction, and agent event labels, and refine the title undo button and desktop list spacing."
+      ]
+    }
+  ]
+}
