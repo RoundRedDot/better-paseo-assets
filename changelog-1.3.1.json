@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.3.1",
+      "build": 202611051723,
+      "zh": [
+        "任务详情支持展开、收起及标题更新动画，打开详情时保留原有内容，减少闪动。",
+        "侧边栏新增任务操作菜单、筛选隐藏数量和悬停提示；清除筛选时恢复显示隐藏的子任务。",
+        "修复归档任务的父子关系显示，优化问题摘要、统计数字和按钮的显示。"
+      ],
+      "en": [
+        "Animate task detail sections and title updates, and retain content while opening details to reduce flicker.",
+        "Add task menus, filtered-task counts and hover hints to the sidebar; restore hidden subtasks when filters are cleared.",
+        "Fix parent-child relationships for archived tasks and refine question summaries, metrics and buttons."
+      ]
+    }
+  ]
+}
