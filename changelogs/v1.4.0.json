@@ -1,0 +1,20 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.4.0",
+      "build": 202611061831,
+      "zh": [
+        "支持自定义打开任务看板的快捷键。",
+        "优化平板工具栏、侧边栏和搜索框，改善菜单关闭与卡片选择交互。",
+        "统一鼠标与触屏按压反馈，改善菜单提示与空分组操作。",
+        "Mermaid 代码块使用 Paseo 图表渲染，修复计划列表重复间距和滚动时的间距变化。"
+      ],
+      "en": [
+        "Configure a keyboard shortcut to open the Tasks board.",
+        "Refine tablet toolbars, sidebars and search fields, including menu dismissal and card selection.",
+        "Unify pointer and touch press feedback, and improve menu hints and empty-group actions.",
+        "Render Mermaid blocks with Paseo’s diagram renderer, and fix duplicate plan spacing and spacing changes while scrolling."
+      ]
+    }
+  ]
+}
