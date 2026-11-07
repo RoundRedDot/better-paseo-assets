@@ -1,0 +1,20 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.5.0",
+      "build": 202611071916,
+      "zh": [
+        "详情面板可以切换大小。底部面板改为直角，收紧把手和间距，侧栏图标跟随面板开合。",
+        "侧栏开合改为连续动画，重复送达的相同状态不再让整块看板重绘。平板上切换大小时，先移动底部面板，再更新看板。",
+        "搜索更早的任务时分段加载，可以暂停或继续；停止按钮的按下反馈与其他按钮一致。",
+        "悬停位置时显示目录。父任务状态增加悬停说明，「推断」改为「历史关联」，并注明这是按归档时间推测的，可能不准。"
+      ],
+      "en": [
+        "Resize the details panel. The bottom panel uses square corners and tighter spacing, and the sidebar icon follows whether the panel is open.",
+        "Animate the sidebar as it opens and closes, and skip redrawing the board when the same status arrives again. On a tablet, changing the size moves the bottom panel before the board updates.",
+        "Load older tasks in stages while searching, with pause and resume, and match the search stop button’s press feedback.",
+        "Show the directory when hovering a location. Parent status has a hover hint, and a former parent is labeled as history inferred from archive timing and may be wrong."
+      ]
+    }
+  ]
+}
