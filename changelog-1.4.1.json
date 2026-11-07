@@ -4,16 +4,12 @@
       "version": "1.4.1",
       "build": 202611071121,
       "zh": [
-        "优化桌面菜单和预览面板的入场动画，滚动看板时自动关闭卡片菜单。",
-        "修复平板卡片菜单滚动与任务泳道加载问题，统一详情面板按钮尺寸。",
-        "新增多种强调色与手机行内代码配色，改善窄屏配色选项排版。",
-        "增大更新说明的版本标题并收紧列表间距，复用 Markdown 样式以减少重复计算。"
+        "复用时间线里的 Markdown 样式，减少重复计算。",
+        "平板卡片菜单改为原生滚动。滚动任务泳道时，列表恢复正常加载。"
       ],
       "en": [
-        "Refine entrance animations for desktop menus and preview panels, and dismiss card menus when the board scrolls.",
-        "Fix tablet card-menu scrolling and task-lane loading, and align detail controls with toolbar sizes.",
-        "Add more accent and mobile inline-code colors, with better swatch wrapping on narrow screens.",
-        "Enlarge release version headings, tighten release-note spacing, and reuse Markdown styles to reduce repeated work."
+        "Reuse Markdown styles across timeline rows so that work is not repeated.",
+        "Tablet card menus use native scrolling. Scrolling a task lane fills the list normally again."
       ]
     }
   ]
