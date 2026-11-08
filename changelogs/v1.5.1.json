@@ -13,6 +13,16 @@
         "Adapt tablets and phones. While task details scroll, the status and actions stay visible, and the tablet search and toolbar line up with the board.",
         "Hidden tasks use the board cards, and icon spacing, switch states, and message icons are adjusted together."
       ]
+    },
+    {
+      "version": "1.5.1",
+      "build": 202611082155,
+      "zh": [
+        "整理设置里的颜色选项。行内代码不再有重复的蓝、红、灰，强调色和行内代码两行按色相顺序对齐。"
+      ],
+      "en": [
+        "Tidy the colour choices in settings. Inline code no longer repeats a blue, a red and a grey, and the accent row and the inline code row now line up by hue."
+      ]
     }
   ]
 }
