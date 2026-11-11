@@ -1,0 +1,24 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.5.3",
+      "build": 202611111819,
+      "zh": [
+        "加快任务详情打开速度，减少其他任务更新造成的重绘，并在看板刷新时保留详情内容。",
+        "改善 Android 和手机端的详情抽屉操作：抽屉打开时可滚动露出的泳道，返回详情时恢复选项卡和浏览位置。",
+        "直接在任务卡片上回答简单问题，或在弹窗中完成多题、选择和文字输入；支持停止等待中的异步提问。",
+        "将已完成任务标记为「保持未读」，使其回到「待查看」；折叠泳道会提示新进入的任务。",
+        "改善桌面端和 iPad 的详情面板宽度调整，以及任务搜索结果浮层的操作。",
+        "支持复制消息中的 Markdown 引用内容，并改善排版。"
+      ],
+      "en": [
+        "Open task details faster, reduce redraws caused by updates to other tasks, and retain detail content when the board refreshes.",
+        "Improve details sheets on Android and phones: scroll the visible lanes while a sheet is open, and restore the selected tab and scroll position when navigating back.",
+        "Answer simple questions directly on task cards or use a dialog for multiple questions, selections, and text input. Stop tasks waiting on asynchronous questions.",
+        "Mark completed tasks as “Keep unread” to move them back to “Review”; collapsed lanes now indicate newly arrived tasks.",
+        "Improve details panel resizing on desktop and iPad, and refine controls in task search result popovers.",
+        "Copy Markdown quotes in messages and enjoy improved formatting."
+      ]
+    }
+  ]
+}
