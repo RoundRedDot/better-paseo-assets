@@ -184,6 +184,11 @@
       "hash": "fe5b9327acea30c2b1cd86ecdec3bdf23cfdc063",
       "version": "1.5.3",
       "build": 202611111819
+    },
+    {
+      "hash": "4309c1c6fa23c3ac2a6efebd53cec4b43e033298",
+      "version": "1.5.4",
+      "build": 202611121555
     }
   ]
 }

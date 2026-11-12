@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.5.4",
+      "build": 202611121555,
+      "zh": [
+        "平板搜索收起后显示为可编辑的关键词胶囊，多个关键词可分别移除。",
+        "搜索胶囊显示加载、暂停和失败状态，并保留屏幕阅读器播报。",
+        "桌面和移动端的筛选分类统一按 Agent、标签、项目、工作区排列。"
+      ],
+      "en": [
+        "On tablets, collapsed searches appear as editable query pills, with each search term removable individually.",
+        "Search pills show loading, paused, and failed states while preserving screen reader announcements.",
+        "Filter categories now follow the same Agent, Labels, Project, Workspace order on desktop and mobile."
+      ]
+    }
+  ]
+}
