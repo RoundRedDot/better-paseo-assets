@@ -1,0 +1,18 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.5.5",
+      "build": 202611131123,
+      "zh": [
+        "直接在任务详情中回答问题，并从侧边栏切换待回答的问题。",
+        "手机上的问题输入框会在键盘弹出时保持可见。",
+        "从看板打开任务后会清除未读标记，避免任务重新出现在待查看列表。"
+      ],
+      "en": [
+        "Answer questions directly in task details and switch between pending questions from the sidebar.",
+        "On phones, question inputs stay visible when the keyboard opens.",
+        "Opening a task from the board clears its unread mark, preventing it from reappearing in the review lane."
+      ]
+    }
+  ]
+}
