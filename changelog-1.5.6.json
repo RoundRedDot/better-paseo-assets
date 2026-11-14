@@ -1,0 +1,26 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.5.6",
+      "build": 202611141549,
+      "zh": [
+        "计划审批显示计划标题，并可直接打开完整计划。",
+        "提问弹窗显示 Agent 提问前的说明，支持展开和复制；单选答案的选中状态更清晰。",
+        "任务卡片上的错误提示可以关闭；从父任务卡片打开子任务后，可以返回父任务。",
+        "手机看板会恢复泳道的滚动位置，并优化滚动加载和泳道切换。",
+        "改进问题选项和审批按钮的布局，适配窄屏与较大字号；状态图标随字号缩放。",
+        "新增可选设置，将包含 `ui` 或 `app` 代码块的回复交给 genui 等插件渲染，默认关闭。",
+        "更新中英文 README，并补充独立的安装、限制、性能和排错文档。"
+      ],
+      "en": [
+        "Plan approvals show a title and let you open the full plan.",
+        "Question dialogs show the agent’s preceding note, with options to expand and copy it. Selected answers are easier to identify.",
+        "Dismiss errors on task cards, and return to a parent task after opening a subtask from its card.",
+        "The phone board restores lane scroll positions and improves scroll loading and lane switching.",
+        "Question choices and approval buttons fit better on narrow screens and with larger text. Status icons scale with text size.",
+        "An optional setting hands replies containing `ui` or `app` code blocks to genui or another renderer. It is off by default.",
+        "Refreshed the English and Chinese READMEs and added dedicated installation, limitations, performance, and troubleshooting guides."
+      ]
+    }
+  ]
+}
