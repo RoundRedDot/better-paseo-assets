@@ -9,6 +9,18 @@
       "en": [
         "View versions, installation methods, and available updates for enabled agents on the selected host, with update indicators on the board."
       ]
+    },
+    {
+      "version": "1.5.7",
+      "build": 202611150023,
+      "zh": [
+        "在版本设置中查看所选主机上已启用 Agent 的版本、安装方式和可用更新，并在看板收到更新提示。",
+        "修复回答问题弹窗背景过暗的问题。"
+      ],
+      "en": [
+        "View versions, installation methods, and available updates for enabled agents on the selected host, with update indicators on the board.",
+        "Fixed an issue where the question dialog background was overly dark."
+      ]
     }
   ]
 }
