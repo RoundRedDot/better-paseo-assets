@@ -1,0 +1,14 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.5.7",
+      "build": 202611142204,
+      "zh": [
+        "在版本设置中查看所选主机上已启用 Agent 的版本、安装方式和可用更新，并在看板收到更新提示。"
+      ],
+      "en": [
+        "View versions, installation methods, and available updates for enabled agents on the selected host, with update indicators on the board."
+      ]
+    }
+  ]
+}
