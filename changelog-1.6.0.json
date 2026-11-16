@@ -33,6 +33,42 @@
         "When a plugin update is available, the host plugin list shows it too.",
         "Other detail refinements."
       ]
+    },
+    {
+      "version": "1.6.0",
+      "build": 202611161220,
+      "zh": [
+        "时间线",
+        "可选简洁、标准或详细。默认是标准。提问和计划在三种模式下都保留。",
+        "简洁：只保留对话和结果。",
+        "标准：还会保留文件改动、失败步骤、子任务，以及新建或发消息给 Agent。",
+        "详细：显示每一步，包括思考。",
+        "任务面板",
+        "工作区很多时，任务留在原泳道，不再被移入已归档。",
+        "未读任务留在待查看，不会因列表较长而消失。",
+        "刷新、重连或读取失败时，看板已有卡片会保留。断开的列表会重新连上。",
+        "已移除的任务不会再出现，过期的失败也不会显示为错误。",
+        "归档时，卡片不再闪过已完成。",
+        "插件有更新时，主机的插件列表也会提示。",
+        "其他细节优化。",
+        "修复 Claude 问题卡片未显示自定义回答的问题。"
+      ],
+      "en": [
+        "Timeline",
+        "Choose Simple, Standard, or Detailed. Standard is the default. Questions and plans stay in all three.",
+        "Simple: keeps only conversation and results.",
+        "Standard: also keeps file changes, failed steps, subtasks, and creating or messaging an agent.",
+        "Detailed: shows every step, including reasoning.",
+        "Task panel",
+        "When there are many workspaces, tasks stay in their lanes and are no longer moved to archived.",
+        "Unread tasks stay in review and do not disappear when the list is long.",
+        "A refresh, reconnect, or failed read keeps existing cards on the board. A dropped list reconnects.",
+        "A removed task does not reappear, and an outdated failure is not shown as an error.",
+        "Archiving no longer flashes the card through done.",
+        "When a plugin update is available, the host plugin list shows it too.",
+        "Other detail refinements.",
+        "Fix Claude question cards not showing custom answers."
+      ]
     }
   ]
 }
