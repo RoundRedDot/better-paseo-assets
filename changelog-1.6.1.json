@@ -1,0 +1,38 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.6.1",
+      "build": 202611171200,
+      "zh": [
+        "适配 Paseo 0.16。",
+        "时间线",
+        "打开对话即可在输入框旁切换工作过程。",
+        "含中日韩文字的文件路径可以识别并打开。",
+        "任务面板",
+        "看板上只显示前台任务。正在运行的后台子任务留在父任务里，可以停止。",
+        "看板和侧栏的本机偏好留在这台设备上。较旧的 Paseo 继续沿用原来的本机记录。",
+        "设置里可以选择打开文件的应用。菜单只列出这台主机已安装的编辑器。系统应用在 macOS 上打开文件，在 Windows 和 Linux 上显示文件位置。",
+        "自动标题的服务商、模型和思考等级从按钮旁的菜单选择。自定义服务商显示主机上的名称。",
+        "平板工具栏也会提示插件更新，位置与手机一致。",
+        "Android 上，手机任务详情的底部与内容分开。",
+        "提问详情更简洁。",
+        "其他细节优化。"
+      ],
+      "en": [
+        "Adapted for Paseo 0.16.",
+        "Timeline",
+        "Switch Agent steps from beside the composer as soon as the chat opens.",
+        "File paths that include CJK characters are recognized and can be opened.",
+        "Task panel",
+        "The board shows only foreground tasks. A running background subtask stays on its parent, where it can be stopped.",
+        "Board and sidebar preferences for this device stay on this device. Older Paseo releases keep their existing on-device records.",
+        "Choose which app opens files in Settings. The menu lists only editors installed on this host. System app opens the file on macOS, and shows its location on Windows and Linux.",
+        "Choose the automatic-title provider, model, and thinking level from the menu beside the control. A custom provider uses the name shown on the host.",
+        "The tablet toolbar shows plugin updates in the same place as on the phone.",
+        "On Android, the phone task detail footer is separate from the content.",
+        "Question details are simpler.",
+        "Other detail refinements."
+      ]
+    }
+  ]
+}
