@@ -1,0 +1,20 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.6.2",
+      "build": 202611182002,
+      "zh": [
+        "工作过程菜单的每个档位有一句说明。",
+        "后台任务完成时，通知分开显示编号和命令。",
+        "修复部分 Agent 版本更新匹配不到的问题。",
+        "其他细节优化。"
+      ],
+      "en": [
+        "Each Agent steps menu level has a one-line description.",
+        "When a background job finishes, the notice separates the job id and the command.",
+        "Fix version updates that could not be matched for some agents.",
+        "Other detail refinements."
+      ]
+    }
+  ]
+}
