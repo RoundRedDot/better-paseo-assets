@@ -1,0 +1,14 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.6.4",
+      "build": 202611211751,
+      "zh": [
+        "翻译仅在宿主和服务商能强制禁用工具时发送文本。当前可用的 Paseo 与服务商暂不满足条件，翻译暂不可用，设置页会说明原因。"
+      ],
+      "en": [
+        "Translation sends text only when the host and provider can enforce a tool-free session. Currently available Paseo hosts and providers do not meet this requirement, so translation is temporarily unavailable; Settings explains why."
+      ]
+    }
+  ]
+}
