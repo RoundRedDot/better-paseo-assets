@@ -1,0 +1,20 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.6.3",
+      "build": 202611211133,
+      "zh": [
+        "新增翻译功能：支持翻译整条回复、思考过程、选中文本和任务详情内容，可设置目标语言、模型和提示词。",
+        "优化选中文本工具栏，在流式输出等自动滚动场景下保持显示，并改善多面板中的定位。",
+        "优化手机端设置菜单，在屏幕空间有限时调整展开位置和高度。",
+        "修复部分本地 OpenCode 服务无法检查版本更新的问题。"
+      ],
+      "en": [
+        "Add translation for full replies, reasoning, selected text, and task details, with configurable target language, model, and prompt.",
+        "Improve the text selection toolbar so it stays visible during automatic scrolling, such as streaming output, and positions more reliably across panes.",
+        "Improve mobile settings menus by adjusting their position and height when screen space is limited.",
+        "Fix version update checks for some local OpenCode servers."
+      ]
+    }
+  ]
+}
