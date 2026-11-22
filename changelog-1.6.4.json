@@ -9,6 +9,22 @@
       "en": [
         "Translation sends text only when the host and provider can enforce a tool-free session. Currently available Paseo hosts and providers do not meet this requirement, so translation is temporarily unavailable; Settings explains why."
       ]
+    },
+    {
+      "version": "1.6.4",
+      "build": 202611221122,
+      "zh": [
+        "恢复翻译，支持使用会话或自选的 Provider 与模型；辅助 Agent 使用该 Provider 配置的工具权限。",
+        "选中文本翻译支持跨区块选择，并保留段落换行。",
+        "归档任务时，可选择仅归档当前卡片，或连同所有子任务一起归档。",
+        "修复以 ~/ 开头的主目录路径解析。"
+      ],
+      "en": [
+        "Translation is available again with the conversation’s provider and model or your own selection. The helper agent uses the provider’s configured tool permissions.",
+        "Selected-text translation supports selections across blocks and preserves paragraph breaks.",
+        "Archive only the current task or include all of its subtasks.",
+        "Fix resolution of home-relative paths beginning with ~/."
+      ]
     }
   ]
 }
