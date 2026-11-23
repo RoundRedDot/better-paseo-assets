@@ -21,6 +21,30 @@
         "Adjust text size in the desktop details panel and see shorter home directory paths.",
         "Improved how executable file links are revealed, how Windows paths are handled, and how model selection menus behave."
       ]
+    },
+    {
+      "version": "1.6.5",
+      "build": 202611240138,
+      "zh": [
+        "标准模式下，工具操作和修改过的文件会汇总到对话中的工作卡片。修改文件卡片默认折叠，仍可直接查看文件数量和修改行数。",
+        "工作步骤可在详情面板中查看；手机上使用抽屉展示。改进了桌面端详情面板的位置、可读性和关闭交互。",
+        "在任务详情中展示计划步骤，更容易了解任务进展。",
+        "自定义翻译和标题生成模型现在使用更严格的权限限制；不支持安全限制的模型会提示选择其他模型。",
+        "修复部分历史任务和待查看任务的状态对账问题，让卡片归类更准确。",
+        "在对话和任务提问中更清晰地呈现 Codex 的结构化内容，并修复浏览器提示回复的显示问题。",
+        "桌面端详情面板支持调整文字大小，主目录路径也更加简洁。",
+        "改进可执行文件链接的定位、Windows 路径处理和模型选择菜单，并为 Linux 缺少系统打开程序的情况提供更清晰的提示。"
+      ],
+      "en": [
+        "In Standard mode, tool actions and edited files are grouped into work cards in the conversation. The edited-files card is collapsed by default while keeping file and line counts visible.",
+        "View work steps in the details panel, or in a drawer on mobile. The desktop panel has improved positioning, readability, and dismissal behavior.",
+        "See plan steps in task details to follow progress more easily.",
+        "Custom models used for translation and title generation now run with tighter permission restrictions. Models that cannot be safely restricted prompt you to choose another model.",
+        "Fixed reconciliation of some historical tasks and tasks needing attention, so cards appear in the right lanes.",
+        "Structured Codex content is displayed more clearly in conversations and task questions. Browser prompt replies also render correctly.",
+        "Adjust text size in the desktop details panel and see shorter home directory paths.",
+        "Improved how executable file links are revealed, how Windows paths are handled, and how model selection menus behave. Linux users also get a clearer message when a system opener is unavailable."
+      ]
     }
   ]
 }
