@@ -1,0 +1,26 @@
+{
+  "versionNotes": [
+    {
+      "version": "1.6.5",
+      "build": 202611232228,
+      "zh": [
+        "标准模式下，工具操作和修改过的文件会汇总到对话中的工作卡片，展开即可查看详情。",
+        "在手机上查看工作步骤时，详情会在抽屉中打开，方便浏览完整过程。",
+        "在任务详情中展示计划步骤，更容易了解任务进展。",
+        "修复部分历史任务和待查看任务的状态对账问题，让卡片归类更准确。",
+        "在对话和任务提问中更清晰地呈现 Codex 的结构化内容。",
+        "桌面端详情面板支持调整文字大小，主目录路径也更加简洁。",
+        "改进可执行文件链接的定位、Windows 路径处理和模型选择菜单。"
+      ],
+      "en": [
+        "In Standard mode, tool actions and edited files are grouped into a work card in the conversation. Expand it to see the details.",
+        "Open work steps in a drawer on your phone to browse the full process.",
+        "See plan steps in task details to follow progress more easily.",
+        "Fixed reconciliation of some historical tasks and tasks needing attention, so cards appear in the right lanes.",
+        "Structured Codex content is displayed more clearly in conversations and task questions.",
+        "Adjust text size in the desktop details panel and see shorter home directory paths.",
+        "Improved how executable file links are revealed, how Windows paths are handled, and how model selection menus behave."
+      ]
+    }
+  ]
+}
