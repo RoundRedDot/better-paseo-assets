@@ -29,6 +29,36 @@
         "Earlier contribution: Allow matching plugins to render replies with ui / app code blocks (#19 BY @HybridRbt).",
         "Earlier contribution: Correct plugin ID casing in installation commands (#27 BY @Calcium-Ion)."
       ]
+    },
+    {
+      "version": "1.7.0",
+      "build": 202611252225,
+      "zh": [
+        "翻译新增免费模式和自定义 API。整条回复的译文可直接显示在消息内。",
+        "翻译连接测试显示模型和响应时间。",
+        "划词翻译支持跨区块、表格选区和手机预览。翻译表格内容时会一并发送对应列标题。",
+        "标准模式新增工作卡片，集中展示工具操作和文件修改。",
+        "工作步骤支持编号和分类筛选。桌面端使用侧边面板，手机端使用抽屉。",
+        "任务详情新增计划步骤。归档时可选择是否包含子任务。",
+        "补充显示 Codex 子任务的模型和推理力度信息。",
+        "优化时间线性能，减少流式更新中的重复计算。",
+        "改进 Codex 内容渲染和跨平台路径处理。自定义标题生成模型采用更严格的权限限制。",
+        "此前贡献：支持由匹配的插件渲染 ui / app 代码块回复 (#19 BY @HybridRbt)。",
+        "此前贡献：修正安装命令中的插件 ID 大小写 (#27 BY @Calcium-Ion)。"
+      ],
+      "en": [
+        "Translation adds a free mode and custom API support. Full-reply translations can be displayed inline.",
+        "Translation connection tests show the model and response time.",
+        "Selection translation supports blocks, table cells, and mobile previews. Table translations also send the relevant column headers.",
+        "Standard mode adds work cards for tool actions and file changes.",
+        "Work steps are numbered and can be filtered by type. Open them in a desktop side panel or mobile drawer.",
+        "Task details now show plan steps. Archive a task alone or with its subtasks.",
+        "Display model and reasoning effort information for Codex subagents.",
+        "Improved timeline performance by reducing repeated work during streaming.",
+        "Improved Codex content rendering and cross-platform path handling. Custom title-generation models use tighter permission restrictions.",
+        "Earlier contribution: Allow matching plugins to render replies with ui / app code blocks (#19 BY @HybridRbt).",
+        "Earlier contribution: Correct plugin ID casing in installation commands (#27 BY @Calcium-Ion)."
+      ]
     }
   ]
 }
